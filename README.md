@@ -20,4 +20,4 @@ You can prepare solutions in your favourite IDE (e.g. Visual Studio) or online c
 
 Enjoy!
 
-More info can be found (here)[www.CSharpExercises.com]
+More info can be found [here](www.CSharpExercises.com)
